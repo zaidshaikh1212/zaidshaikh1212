@@ -1,6 +1,3 @@
-## Hi there 👋
-
-**zaidshaikh1212/zaidshaikh1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 🔭 I’m currently not working.<br>👯 I'm fresher and learning MERN Stack.<br>🤝 I’m looking for help with Web dev.<br>🌱 I’m currently learning React JS<br>💬 Ask me about Web dev.<br>⚡ Fun fact A Passionate Software Engineer. 
